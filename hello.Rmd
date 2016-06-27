@@ -2,7 +2,9 @@
 title: "Hello"
 author: "Thomas G. Stewart"
 date: "June 27, 2016"
-output: html_document
+output: 
+  html_document
+  github_document
 ---
 
 ```{r setup, include=FALSE}
